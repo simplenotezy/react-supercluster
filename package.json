@@ -23,7 +23,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "^16.8.6",
+    "react": ">=16.8.6",
     "supercluster": "^6.0.2"
   },
   "devDependencies": {
@@ -35,7 +35,7 @@
     "@types/supercluster": "^5.0.1",
     "cross-env": "^5.2.0",
     "gh-pages": "2.0",
-    "react": "^16.8.6",
+    "react": ">=16.8.6",
     "react-scripts": "^3.0.1",
     "rollup": "^1.1.2",
     "rollup-plugin-babel": "^4.3.2",
